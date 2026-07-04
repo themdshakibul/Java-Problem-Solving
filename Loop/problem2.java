@@ -26,6 +26,7 @@ public class problem2 {
         else{
             System.out.println(i);
         }
+        
        }
     }
 }
