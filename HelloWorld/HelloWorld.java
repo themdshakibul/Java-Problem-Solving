@@ -1,5 +1,9 @@
-public class HelloWorld{
-    public static void main (String [] args){
-       System.out.println("In the Java HelloWorld");
+public class HelloWorld {
+    public static void main(String[] args) {
+        int num1 = 20;
+        int num2 = 30;
+        int numbers = num1 + num2;
+        System.out.println(numbers);
+
     }
 }

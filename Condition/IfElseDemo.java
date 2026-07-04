@@ -47,8 +47,6 @@ public class IfElseDemo {
 
 
         // Switch statement
-
-
         int number = 13;
 
         switch ((number % 2)){
